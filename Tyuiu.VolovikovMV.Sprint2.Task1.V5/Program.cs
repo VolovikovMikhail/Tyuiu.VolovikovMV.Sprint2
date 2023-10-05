@@ -18,7 +18,7 @@ namespace Tyuiu.VolovikovMV.Sprint2.Task1.V5
             Console.Title = "Спринт #2 | Выполнил: Воловиков М. В. | АСОиУб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Операции сравнения                                                *");
+            Console.WriteLine("* Тема: Логические операции                                               *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
             Console.WriteLine("* Выполнил: Воловиков Михаил Васильевич | АСОиУб-23-3                     *");
