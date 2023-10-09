@@ -25,7 +25,7 @@ namespace Tyuiu.VolovikovMV.Sprint2.Task3.V3
             Console.WriteLine("* вводит значение переменной X с клавиатуры.                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("Введите значение Х:");
-            int x = Convert.ToInt32(Console.ReadLine());
+            double x = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Результат: " + ds.Calculate(x));
             Console.ReadKey();
         }
