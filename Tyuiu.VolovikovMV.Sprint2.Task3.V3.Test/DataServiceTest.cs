@@ -13,6 +13,7 @@ namespace Tyuiu.VolovikovMV.Sprint2.Task3.V3.Test
             DataService ds = new DataService();
             double x = 0; double y = 0.167;
             Assert.AreEqual(y, ds.Calculate(x));
+
         }
     }
 }

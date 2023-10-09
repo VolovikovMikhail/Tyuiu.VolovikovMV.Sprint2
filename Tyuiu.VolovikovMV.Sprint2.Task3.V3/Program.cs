@@ -28,6 +28,7 @@ namespace Tyuiu.VolovikovMV.Sprint2.Task3.V3
             double x = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Результат: " + ds.Calculate(x));
             Console.ReadKey();
+
         }
     }
 }
